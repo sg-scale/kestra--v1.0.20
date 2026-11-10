@@ -38,7 +38,7 @@
         "cronstrue": "^3.2.0",
         "cytoscape": "^3.33.0",
         "dagre": "^0.8.5",
-        "el-table-infinite-scroll": "^3.0.7",
+        "el-table-infinite-scroll": "^3.0.8",
         "element-plus": "2.10.5",
         "humanize-duration": "^3.33.0",
         "js-yaml": "^4.1.0",
