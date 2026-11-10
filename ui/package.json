@@ -45,7 +45,7 @@
         "lodash": "^4.17.21",
         "mailchecker": "^6.0.18",
         "markdown-it": "^14.1.0",
-        "markdown-it-anchor": "^9.2.0",
+        "markdown-it-anchor": "^10.1.0",
         "markdown-it-container": "^4.0.0",
         "markdown-it-link-attributes": "^4.0.1",
         "markdown-it-mark": "^4.0.0",
